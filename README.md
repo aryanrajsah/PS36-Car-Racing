@@ -31,8 +31,11 @@ This project is a 2D car racing game developed using Python and the Pygame libra
 ## Project Mentor
 
 **Mentored by:** [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+
 **GitHub:** [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+
 **Role:** Python Mentor / Technical Guide
 
 ---
 **Developed by:** [@aryanrajsah](https://github.com/aryanrajsah)
+
