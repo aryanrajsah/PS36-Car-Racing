@@ -28,3 +28,11 @@ This project is a 2D car racing game developed using Python and the Pygame libra
 * **Inputs:** `LEFT Arrow Key` (move left), `RIGHT Arrow Key` (move right), `R Key` (Restart).
 * **Outputs:** 400x600 graphical window displaying the road, player car, obstacle cars, real-time score, and Game Over screen.
 *
+## Project Mentor
+
+**Mentored by:** [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+**GitHub:** [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+**Role:** Python Mentor / Technical Guide
+
+---
+**Developed by:** [@aryanrajsah](https://github.com/aryanrajsah)
