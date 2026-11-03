@@ -1,3 +1,10 @@
+# Name: Aryan Raj
+# Enrollment No.: RU-26-02977
+# Admission No.: REF-2026-07307
+# Email ID: aryan.raj4@rungta.org
+# Section: BE-CSE-C-1-26-1-B2
+
+
 import sys
 import random
 import pygame
